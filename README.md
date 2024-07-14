@@ -27,7 +27,7 @@ A calls (Labeled as 1): 12996
 Unlabelled (test): 2000
 
 Visualization of an audio file from the training dataset:
-![App Screenshot](https://github.com/AkGu2002/DataFest-2023/assets/74046369/da17d45e-3373-4a04-aa7c-5a1d838fcfd2)
+![App Screenshot](https://github.com/user-attachments/assets/7447ed89-2bc2-4050-bc50-ea3fd9ec5162)
 
 ### Dependency/ Library Used
 os 
@@ -65,15 +65,15 @@ A waveform represents the amplitude of a signal as a function of time. It is a o
 
 The spectrograms of A and Non A calls:
 
-![App Screenshot](https://github.com/AkGu2002/DataFest-2023/assets/74046369/5b0dc027-848f-404c-8abe-a60b28aea4f0)
+![App Screenshot](https://github.com/user-attachments/assets/8606418e-aa0c-467b-ba63-675a75c1763e)
 
 The waveform of a Non A call:
 
-![App Screenshot](https://github.com/AkGu2002/DataFest-2023/assets/74046369/c81aec21-18e6-47a2-a924-e53fae2b1192)
+![App Screenshot](https://github.com/user-attachments/assets/cc5e07e3-2abc-4e76-9b76-f51b38b40497)
 
 Improvised colored spectrogram for better visualisation:
 
-![App Screenshot](https://github.com/AkGu2002/DataFest-2023/assets/74046369/2c5edcdd-570e-40d5-b556-2cb7fc859564)
+![App Screenshot](https://github.com/user-attachments/assets/f6d04c26-23f3-4687-b30b-d108346955cf)
 
 
 ### Model Construction and training
@@ -83,11 +83,11 @@ The Adam optimizer is chosen, which is a popular optimization algorithm for deep
 ### Inspecting Model Accuracy and loss
 The model has trained pretty well.
 
-![App Screenshot](https://github.com/AkGu2002/DataFest-2023/assets/74046369/82880c74-8672-4ede-8601-8a64fb7c253c)
+![App Screenshot](https://github.com/user-attachments/assets/7af9ba64-cd53-457e-9c6e-38770623f757)
 
 The confusion matrix is drawn to see the performance of the model and it does seem of some negative error prediction rate.
 
-![App Screenshot](https://github.com/AkGu2002/DataFest-2023/assets/74046369/e8515a06-3634-441b-9e18-c21dde632c04)
+![App Screenshot](https://github.com/user-attachments/assets/cf7c98a1-b9cf-4d51-87ed-525d41b8dd1c)
 
 False negatives and false positives were inspected manually. The F1 score was calculated which came out to be 0.9969.
 
