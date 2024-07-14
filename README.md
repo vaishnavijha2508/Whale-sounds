@@ -14,7 +14,7 @@ Here is how the graph can be visualised:
 
 
 
-![App Screenshot](https://github.com/AkGu2002/DataFest-2023/assets/74046369/273696d0-e39f-4183-9f70-e58ae097abdb)
+![App Screenshot](https://github.com/user-attachments/assets/8e5c69b4-ddf7-493b-9d5f-64f15016a758)
 
 The occurrences of A calls were identified and labelled from underwater audio recordings captured by deep-sea hydrophone devices. The recording spanned almost a month.
 
